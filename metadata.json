@@ -1,0 +1,7 @@
+{
+  "name": "BLTnP Group Security",
+  "description": "Premium integrated security solutions and accredited security training academy in South Africa.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
